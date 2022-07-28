@@ -1,2 +1,2 @@
 # minimo
-psd to html
+https://mizanonly.github.io/minimo/
